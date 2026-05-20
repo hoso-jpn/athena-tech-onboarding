@@ -136,7 +136,7 @@ git push --force-with-lease
 
 ### ① SourceTreeのインストール
 
-https://www.sourcetreeapp.com/
+[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 - 「Download for Mac」からダウンロード（ISMSのご担当者に要確認）
 - インストール後、Bitbucketのアカウント登録は不要（Skipでok）
